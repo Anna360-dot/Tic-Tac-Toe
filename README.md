@@ -1,4 +1,4 @@
-##Tic-Tac-Toe
+## Tic-Tac-Toe
 This is a simple XO (Tic-Tac-Toe) game written in C++.
 It supports both Human vs Human and Human vs AI modes. 
 The AI is powered by the Minimax algorithm with alpha-beta pruning.
